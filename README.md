@@ -14,17 +14,3 @@ This project sets up a media server on Ubuntu with:
 ```bash
 chmod +x setup.sh run.sh
 ./setup.sh
-
-## Usage
-## After setup, streaming will start automatically. To manually control streaming:
-
-## Start streaming:
-
-
-./run.sh
-Access the web player at: http://your-server-ip/
-
-## Configuration
-## Edit playlist.txt to add your video files
-
-## Edit config/nginx.conf for Nginx configuration

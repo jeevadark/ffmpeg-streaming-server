@@ -1,3 +1,5 @@
+
+2. `setup.sh`:
 ```bash
 #!/bin/bash
 

@@ -18,12 +18,13 @@ chmod +x setup.sh run.sh
 ## Usage
 ## After setup, streaming will start automatically. To manually control streaming:
 
-Start streaming:
+## Start streaming:
+
 
 ./run.sh
 Access the web player at: http://your-server-ip/
 
-Configuration
-Edit playlist.txt to add your video files
+## Configuration
+## Edit playlist.txt to add your video files
 
-Edit config/nginx.conf for Nginx configuration
+## Edit config/nginx.conf for Nginx configuration

@@ -15,12 +15,11 @@ This project sets up a media server on Ubuntu with:
 chmod +x setup.sh run.sh
 ./setup.sh
 
-Usage
-After setup, streaming will start automatically. To manually control streaming:
+## Usage
+## After setup, streaming will start automatically. To manually control streaming:
 
 Start streaming:
 
-bash
 ./run.sh
 Access the web player at: http://your-server-ip/
 
